@@ -22,7 +22,7 @@
 
 إذا ما اشتغل الرمز، اكتب واحد من هذي بدله:
 
-| | |
+| الطريقة | اكتب |
 |:---|:---|
 | رابط مختصر | `aftv.news/6853610` |
 | الرابط الكامل | `github.com/ialaa-almehmadi/novix-releases/releases/latest/download/Novix-TV.apk` |
