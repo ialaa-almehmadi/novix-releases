@@ -16,14 +16,15 @@
 ### ٢. حمّل Novix
 افتح **Downloader**، واكتب في خانة العنوان رمز Novix:
 
-<p align="center"><b><code>&nbsp;6853610&nbsp;</code></b></p>
+<h3 align="center"><code>&nbsp;6853610&nbsp;</code></h3>
 
 واضغط **Go**، ويبدأ التحميل. الرمز ثابت ويجيب لك دايم آخر نسخة.
 
-| الطريقة | اكتب |
+إذا ما اشتغل الرمز، اكتب واحد من هذي بدله:
+
+| | |
 |:---|:---|
-| رمز Downloader | `6853610` |
-| رابط مختصر (أي متصفح) | `aftv.news/6853610` |
+| رابط مختصر | `aftv.news/6853610` |
 | الرابط الكامل | `github.com/ialaa-almehmadi/novix-releases/releases/latest/download/Novix-TV.apk` |
 
 ### ٣. ثبّته
