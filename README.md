@@ -14,13 +14,17 @@
 افتح **Google Play** في التلفزيون، وابحث عن **Downloader**، واضغط **تثبيت**.
 
 ### ٢. حمّل Novix
-افتح **Downloader**، واكتب في خانة العنوان:
+افتح **Downloader**، واكتب في خانة العنوان رمز Novix:
 
-```
-github.com/ialaa-almehmadi/novix-releases/releases/latest/download/Novix-TV.apk
-```
+<p align="center"><b><code>&nbsp;6853610&nbsp;</code></b></p>
 
-واضغط **Go**.
+واضغط **Go**، ويبدأ التحميل. الرمز ثابت ويجيب لك دايم آخر نسخة.
+
+| الطريقة | اكتب |
+|:---|:---|
+| رمز Downloader | `6853610` |
+| رابط مختصر (أي متصفح) | `aftv.news/6853610` |
+| الرابط الكامل | `github.com/ialaa-almehmadi/novix-releases/releases/latest/download/Novix-TV.apk` |
 
 ### ٣. ثبّته
 - أول مرة يطلب التلفزيون السماح لـ **Downloader** بتثبيت التطبيقات: فعّله وارجع.
