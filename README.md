@@ -11,7 +11,16 @@
 ## 📺 طريقة التثبيت
 
 ### ١. ثبّت تطبيق Downloader
-افتح **Google Play** في التلفزيون، وابحث عن **Downloader**، واضغط **تثبيت**.
+افتح **Google Play** في التلفزيون، وابحث عن **Downloader**، وثبّت التطبيق اللي أيقونته برتقالية وفيها حرف D وسهم:
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader"><img src="images/downloader.png" alt="Downloader" width="96"></a><br>
+  <b>Downloader by AFTVnews</b><br>
+  <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader">صفحته في Google Play</a>
+</p>
+
+> تقدر تثبّته من جوالك: افتح الرابط فوق، واضغط **تثبيت**، واختر التلفزيون من قائمة الأجهزة.
+> في **Fire TV** تلقاه بنفس الاسم في متجر Amazon.
 
 ### ٢. حمّل Novix
 افتح **Downloader**، واكتب في خانة العنوان رمز Novix:
