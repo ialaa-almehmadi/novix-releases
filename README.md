@@ -8,6 +8,8 @@
 
 > Novix مشغّل فقط، وما فيه أي قنوات. تحتاج اشتراك أو قائمة تشغيل خاصة فيك.
 
+📱 تبي Novix للجوال أو التابلت؟ **[صفحة Novix للجوال](https://github.com/ialaa-almehmadi/novix-mobile-releases)**
+
 ## 📺 طريقة التثبيت
 
 ### ١. ثبّت تطبيق Downloader
